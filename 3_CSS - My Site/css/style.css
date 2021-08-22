@@ -1,0 +1,34 @@
+/*
+#171717
+#444444
+#DA0037
+#EDEDED
+*/
+
+div{
+    background-color: #DA0037;
+}
+
+body{
+    margin:0;
+    background-color: #EDEDED;
+}
+
+#top-container{
+    background-color: #DA0037;
+}
+
+#middle-container{
+    background-color: lightpink;
+    width: 200px;
+    height: 200px;
+}
+
+#bottom-container{
+    background-color: lightgreen;
+    width: 200px;
+    height: 200px;
+}
+#eng{
+    text-decoration: underline;
+}
